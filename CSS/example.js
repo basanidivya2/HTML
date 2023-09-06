@@ -58,11 +58,9 @@ console.log('Divya');
 //let b = 65;
 //console.log(a<=b);
 
-let a = 100;
-let b = 3;
-console.log(a++);
-
-
+//let a = 100;
+//let b = 3;
+//console.log(a++);
 
 
 
